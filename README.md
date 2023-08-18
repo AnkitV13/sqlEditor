@@ -24,6 +24,8 @@ A simple online SQL editor interface designed to showcase the ability for users 
 
 Web-App performace tested using the [Lighthouse Tool](https://developers.google.com/web/tools/lighthouse).
 
+[!img] (https://github.com/AnkitV13/sqlEditor/blob/c3a6ee041bf6c3c3e738548d5776c852a48b3d89/main/public/performance.png)
+
 ## Performance Optimisation
 
 1. The process of importing the `react-ace` editor was causing extended loading times on the page. To address this, I transformed it into a lazily loaded component utilizing `React.lazy()`. This approach employs code-splitting and defers the loading of the editor until needed.
