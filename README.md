@@ -24,7 +24,7 @@ A simple online SQL editor interface designed to showcase the ability for users 
 
 Web-App performace tested using the [Lighthouse Tool](https://developers.google.com/web/tools/lighthouse).
 
-[!img](https://github.com/AnkitV13/sqlEditor/assets/88629363/4d3aa6a3-efab-4765-8df3-ce576eba7eb2)
+![img](https://github.com/AnkitV13/sqlEditor/assets/88629363/4d3aa6a3-efab-4765-8df3-ce576eba7eb2)
 
 ## Performance Optimisation
 
